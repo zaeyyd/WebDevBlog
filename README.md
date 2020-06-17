@@ -11,7 +11,7 @@
 
 * Each DAY has information on how to code that DAY... kind of meta :o 
 
-Feel free to check out the Live Website above to get a better idea :)
+```Feel free to check out the Live Website above to get a better idea :)```
 
 
 
