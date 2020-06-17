@@ -1,7 +1,7 @@
 # WebDevBlog
 
 
-Blog-Style website introducing HTML and CSS for beginners
+## Blog-Style website introducing HTML and CSS for beginners
 
 [Live Website Link](https://zaeyyd.github.io/WebDevBlog)
 
