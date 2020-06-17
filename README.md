@@ -3,7 +3,7 @@
 
 Blog-Style website introducing HTML, CSS and JavaScript for beginners
 
-[Live Website Link](https://zaeyyd.github.io/WebDevBlog)
+## [Live Website Link](https://zaeyyd.github.io/WebDevBlog)
 
 <img src="webDevBlogSC.png"/>
 
