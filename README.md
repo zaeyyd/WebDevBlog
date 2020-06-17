@@ -1,8 +1,8 @@
 # WebDevBlog
 
-## [Live Website Link](https://zaeyyd.github.io/WebDevBlog)
+### [Live Website Link](https://zaeyyd.github.io/WebDevBlog)
 
-Blog-Style website introducing HTML, CSS and JavaScript for beginners
+## Blog-Style website introducing HTML, CSS and JavaScript for beginners
 
 <img src="webDevBlogSC.png"/>
 
