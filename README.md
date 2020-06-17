@@ -3,9 +3,9 @@
 
 Blog-Style website introducing HTML, CSS and JavaScript for beginners
 
-[Live Website Link](https://zaeyyd.github.io/WebDevBlogSC)
+[Live Website Link](https://zaeyyd.github.io/WebDevBlog)
 
-<img src="webDevBlog.png"/>
+<img src="webDevBlogSC.png"/>
 
 * Sections of the website are divided into "DAYS". 
 
