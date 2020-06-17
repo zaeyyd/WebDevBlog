@@ -5,6 +5,8 @@
 
 [Live Website Link](https://zaeyyd.github.io/WebDevBlog)
 
+<img src="webDevBlog.png"/>
+
 * Sections of the website are divided into "DAYS". 
 
 * I learn new HTML/CSS concepts every DAY, and then use those new concepts to code the next DAY. 
